@@ -1,5 +1,7 @@
 # Fish OpenAI TTS Bridge — 一键部署版
 
+> **专有软件，不是开源项目。** 仅限取得有效 `LICENSE_KEY` 的客户为个人部署用途 Fork 和使用。禁止复制、镜像、二次分发；禁止删除、绕过或篡改授权验证；禁止修改后发布成自己的产品。详见 [LICENSE](./LICENSE)。
+
 把任何支持 OpenAI / 自定义 OpenAI TTS 的应用，连接到你自己的 Fish Audio 账号。
 
 > 这是自托管部署仓库：你的 Fish API Key 和 Railway 服务都由你自己掌控。使用本服务需要一枚由服务提供方发放的授权码。
